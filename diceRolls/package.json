@@ -1,0 +1,11 @@
+{
+  "name": "dicerolls",
+  "version": "1.0.0",
+  "description": "diceRolls coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
